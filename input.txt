@@ -1,0 +1,28 @@
+4321
+Dog
+0-9 age
+10 rouble
+10 pieces
+30.11.2017
+Expo
+1234
+Car
+0-10 age
+18 rouble
+20 pieces
+30.11.2013
+Belita
+4595
+Cat
+0-9
+12 rouble
+15 pieces
+20.11.2018
+Belita
+9999
+Bear
+5-12 age
+12 rouble
+15 pieces
+30.11.2013
+Cosmo
