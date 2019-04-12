@@ -1,1 +1,1 @@
-# GUI
+Java program with GUI interface
